@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Super Code Strike](https://scs.gg)
+
+[![onomasticon's GitHub stats](https://github-readme-stats.vercel.app/api?username=onomasticon)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **onomasticon/onomasticon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
