@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
-- 🔭 I’m currently working on [Super Code Strike](https://scs.gg)
+- 🔭 I’m currently working on [SCS](https://scs.gg)
+- 📫 How to reach me: hello@onome.dev
 
 [![onomasticon's GitHub stats](https://github-readme-stats.vercel.app/api?username=onomasticon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
